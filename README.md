@@ -9,7 +9,7 @@ DACircularProgress
 
 
 使用方法：
-  pod "MWPhotoBrowser",             :git => 'https://github.com/handsomeJJ/MWPhotoBrowser.git', :commit =>  'acd682c2d62511c0f8f36ad7dd4f6cb2f0f6a46f'
+pod "MWPhotoBrowser", :git => 'https://github.com/handsomeJJ/MWPhotoBrowser.git', :commit => '73e42c30e5b16b7b8c5097fc2f6477d4eef5ea0c'
 
 
 
