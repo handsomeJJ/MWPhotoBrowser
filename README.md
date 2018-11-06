@@ -1,3 +1,19 @@
+自己修改了依赖库版本：
+
+MBProgressHUD
+0.9 -> 1.0.0
+SDWebImage
+3.7 -> 4.4.2
+DACircularProgress
+2.3 -> 2.3.1
+
+
+使用方法：
+  pod "MWPhotoBrowser",             :git => 'https://github.com/handsomeJJ/MWPhotoBrowser.git', :commit =>  'acd682c2d62511c0f8f36ad7dd4f6cb2f0f6a46f'
+
+
+
+
 # MWPhotoBrowser
 
 <!--[![CI Status](http://img.shields.io/travis/Michael Waterfall/MWPhotoBrowser.svg?style=flat)](https://travis-ci.org/Michael Waterfall/MWPhotoBrowser)-->
